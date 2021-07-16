@@ -6,6 +6,7 @@ devtools::install_github("liqg/CVAA")
 ```
 
 ## Usage
+See R help page for how to use.
 ```R
 library(CVAA)
 ?CVAA
