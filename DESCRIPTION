@@ -1,0 +1,14 @@
+Package: CVAA
+Type: Package
+Title: Cross-Value Association Analysis
+Version: 0.1.0
+Author: Li Qigang
+Maintainer: liqg <liqigang@gmail.com>
+Description: A normalization free and non-parametric algorithm for large-scale association test
+License: GPL3
+LazyData: TRUE
+Imports: Rcpp (>= 0.12.7), pbapply, parallel, data.table(>= 1.10.0)
+LinkingTo: Rcpp
+RoxygenNote: 6.0.1
+NeedsCompilation: yes
+Packaged: 2017-03-23 16:33:52 UTC; abel
