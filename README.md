@@ -2,7 +2,7 @@ Heterogeneity in transcriptional data hampers the identification of differential
 
 ## Install
 ```R
-devtools::install_github("liqg/cvaa")
+devtools::install_github("liqg/CVAA")
 ```
 
 ## Usage
